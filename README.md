@@ -6,7 +6,7 @@
 > 
 > 理论上，理论和实践是没有差异的。但实践中，是有的。——Jan L. A. van de Snepscheut
 
-* [在线阅读](https://ds100.apachecn.org)
+* [在线阅读](https://ds100.flygon.net)
 * [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 * [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 
